@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+results/checkpoints/
+results/evaluation.json
+data/
+*.nii
+*.nii.gz
+*.pt
+.DS_Store

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "EQUAL: Equivariant q-Space Operators With Laplace-Measure Latents"
+version: 0.1.0
+date-released: 2026-10-20
+license: MIT
+authors:
+  - family-names: "Author"
+    given-names: "First A."
+  - family-names: "Author"
+    given-names: "Second B."
+  - family-names: "Author"
+    given-names: "Third C."
+preferred-citation:
+  type: article
+  title: "EQUAL: Equivariant q-Space Operators With Laplace-Measure Latents for Acquisition-Universal Diffusion MRI"
+  journal: "Submitted"
+  year: 2026
+  authors:
+    - family-names: "Author"
+      given-names: "First A."
